@@ -1,0 +1,2 @@
+Swift Playground Alfred Workflow
+================================
